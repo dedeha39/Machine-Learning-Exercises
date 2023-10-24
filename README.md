@@ -1,1 +1,1 @@
-# Machine-Learning-Exercises
+# UniPD Machine Learning Course Exercises
