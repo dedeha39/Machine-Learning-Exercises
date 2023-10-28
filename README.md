@@ -1,5 +1,4 @@
 # UniPD Machine Learning Course Exercises
-# Machine Learning Labs Repository
 
 This repository contains materials and code implementations for the Machine Learning labs conducted during the academic year 2022-23.
 
