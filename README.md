@@ -2,7 +2,7 @@
 
 This repository contains materials and code implementations for the Machine Learning labs conducted during the academic year 2022-23.
 
-### Linear Classification and Regression
+## Linear Classification and Regression
 ### Tasks:
 - **Classification:** Implement the Perceptron algorithm and use Logistic Regression from Python libraries for NBA players' roles classification.
 - **Regression:** Use Least Squares implementation in Python libraries for house prices data regression.
